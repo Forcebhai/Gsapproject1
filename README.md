@@ -39,6 +39,7 @@ Beginner-friendly GSAP implementation
 ---
 
 #📂 Project Structure
+
     ├── index.html
     ├── style.css (optional / Tailwind via CDN)
     ├── script.js
@@ -59,4 +60,5 @@ Tailwind CSS ensures fast styling and responsive layouts
 
 
     
+
 
